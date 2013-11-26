@@ -554,49 +554,15 @@ div {
     white-space:nowrap;
 }
 
-.u38_normal {
-    background-image: url('../resources/images/transparent.gif');
-}
-
-.u38_container {
-    position:absolute;
-    left:22px;
-    top:0px;
-    width:57px;
-    height:20px;
-}
-
-#u38_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:63px;
-    height:26px;
-}
-
-.u39 {
-    position:absolute;
-    left:3px;
-    top:2px;
-    width:52px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    white-space:nowrap;
-}
-
-.u41_selected {
+.u38_selected {
     background-image: url('../会员管理_files/u19_selected.png');
 }
 
-.u41_normal {
+.u38_normal {
     background-image: url('../会员管理_files/u19_normal.png');
 }
 
-.u41_container {
+.u38_container {
     position:absolute;
     left:6px;
     top:6px;
@@ -604,7 +570,7 @@ div {
     height:9px;
 }
 
-#u41_img {
+#u38_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -612,7 +578,7 @@ div {
     height:9px;
 }
 
-.u42 {
+.u39 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -624,6 +590,40 @@ div {
     font-family:Arial;
     text-align:left;
     word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u40_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:57px;
+    height:20px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:63px;
+    height:26px;
+}
+
+.u41 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
 }
 
 .u43_normal {
@@ -681,40 +681,6 @@ div {
 }
 
 .u47 {
-    position:absolute;
-    left:3px;
-    top:2px;
-    width:52px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    white-space:nowrap;
-}
-
-.u49_normal {
-    background-image: url('../resources/images/transparent.gif');
-}
-
-.u49_container {
-    position:absolute;
-    left:22px;
-    top:0px;
-    width:57px;
-    height:20px;
-}
-
-#u49_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:63px;
-    height:26px;
-}
-
-.u50 {
     position:absolute;
     left:3px;
     top:2px;

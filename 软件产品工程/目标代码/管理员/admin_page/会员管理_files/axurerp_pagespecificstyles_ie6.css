@@ -43,12 +43,12 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="会员管理_files/u19_normal.png");
 }
 
-* html .u41_selected {
+* html .u38_selected {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="会员管理_files/u19_selected.png");
 }
 
-* html .u41_normal {
+* html .u38_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="会员管理_files/u19_normal.png");
 }
