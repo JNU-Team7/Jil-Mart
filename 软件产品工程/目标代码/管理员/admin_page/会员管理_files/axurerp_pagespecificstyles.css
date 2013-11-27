@@ -694,3 +694,65 @@ div {
     white-space:nowrap;
 }
 
+#u49 {
+    position:absolute;
+    left:250px;
+    top:46px;
+    width:111px;
+    height:45px;
+    overflow:hidden;
+}
+
+#pd0u49 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:111px;
+    height:45px;
+    
+}
+
+.u50_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:116px;
+    height:47px;
+}
+
+#u50_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:116px;
+    height:47px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:112px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52 {
+    position:absolute;
+    left:272px;
+    top:61px;
+    width:67px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

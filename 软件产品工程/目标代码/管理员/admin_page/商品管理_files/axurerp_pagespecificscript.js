@@ -1,10 +1,10 @@
-﻿for(var i = 0; i < 15; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 19; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
 
 });
-gv_vAlignTable['u12'] = 'center';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u9'] = 'center';u14.tabIndex = 0;
+gv_vAlignTable['u12'] = 'center';gv_vAlignTable['u17'] = 'center';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u9'] = 'center';u14.tabIndex = 0;
 
 u14.style.cursor = 'pointer';
 $axure.eventManager.click('u14', function(e) {
@@ -37,4 +37,15 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u13'] = 'top';
+gv_vAlignTable['u13'] = 'top';u18.tabIndex = 0;
+
+u18.style.cursor = 'pointer';
+$axure.eventManager.click('u18', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('订单管理.html');
+
+}
+});
+gv_vAlignTable['u18'] = 'top';
