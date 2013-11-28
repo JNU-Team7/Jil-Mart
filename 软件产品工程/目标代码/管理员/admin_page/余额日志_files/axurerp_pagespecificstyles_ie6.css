@@ -1,9 +1,4 @@
-﻿* html .u3_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u3_normal.png");
-}
-
-* html .u5_normal {
+﻿* html .u5_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u5_normal.png");
 }
@@ -50,7 +45,7 @@
 
 * html .u23_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u25_normal {
@@ -75,7 +70,7 @@
 
 * html .u33_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u35_normal {
@@ -100,7 +95,7 @@
 
 * html .u43_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u45_normal {
@@ -125,7 +120,7 @@
 
 * html .u53_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u55_normal {
@@ -150,7 +145,7 @@
 
 * html .u63_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u65_normal {
@@ -175,7 +170,7 @@
 
 * html .u73_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u75_normal {
@@ -200,7 +195,7 @@
 
 * html .u83_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u85_normal {
@@ -225,7 +220,7 @@
 
 * html .u93_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u95_normal {
@@ -250,7 +245,7 @@
 
 * html .u103_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u105_normal {
@@ -275,7 +270,7 @@
 
 * html .u113_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u115_normal {
@@ -300,7 +295,7 @@
 
 * html .u123_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u125_normal {
@@ -325,7 +320,7 @@
 
 * html .u133_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u135_normal {
@@ -350,7 +345,7 @@
 
 * html .u143_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 
 * html .u145_normal {
@@ -371,5 +366,10 @@
 * html .u151_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u21_normal.png");
+}
+
+* html .u153_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="余额日志_files/u23_normal.png");
 }
 

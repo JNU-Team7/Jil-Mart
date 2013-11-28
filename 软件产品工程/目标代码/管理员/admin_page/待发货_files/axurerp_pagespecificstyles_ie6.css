@@ -1,9 +1,4 @@
-﻿* html .u6_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u6_normal.png");
-}
-
-* html .u8_normal {
+﻿* html .u8_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u8_normal.png");
 }
@@ -70,7 +65,7 @@
 
 * html .u34_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u36_normal {
@@ -105,7 +100,7 @@
 
 * html .u48_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u50_normal {
@@ -140,7 +135,7 @@
 
 * html .u62_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u64_normal {
@@ -175,7 +170,7 @@
 
 * html .u76_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u78_normal {
@@ -210,7 +205,7 @@
 
 * html .u90_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u92_normal {
@@ -245,7 +240,7 @@
 
 * html .u104_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u106_normal {
@@ -280,7 +275,7 @@
 
 * html .u118_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u120_normal {
@@ -315,7 +310,7 @@
 
 * html .u132_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u134_normal {
@@ -350,7 +345,7 @@
 
 * html .u146_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u148_normal {
@@ -385,7 +380,7 @@
 
 * html .u160_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u162_normal {
@@ -420,7 +415,7 @@
 
 * html .u174_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u176_normal {
@@ -455,7 +450,7 @@
 
 * html .u188_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 
 * html .u190_normal {
@@ -486,5 +481,10 @@
 * html .u200_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u32_normal.png");
+}
+
+* html .u202_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="待发货_files/u34_normal.png");
 }
 

@@ -1,27 +1,16 @@
-﻿for(var i = 0; i < 30; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 34; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
 
 });
-gv_vAlignTable['u16'] = 'center';gv_vAlignTable['u28'] = 'center';u14.tabIndex = 0;
 
-u14.style.cursor = 'pointer';
-$axure.eventManager.click('u14', function(e) {
-
-if (true) {
-
-    self.location.href="resources/reload.html#" + encodeURI($axure.globalVariableProvider.getLinkUrl($axure.pageData.url));
-
-}
-});
-gv_vAlignTable['u14'] = 'top';gv_vAlignTable['u1'] = 'center';
-u26.style.cursor = 'pointer';
-$axure.eventManager.click('u26', function(e) {
+u31.style.cursor = 'pointer';
+$axure.eventManager.click('u31', function(e) {
 
 if (true) {
 
-    objIframe = document.getElementById("u29");
+    objIframe = document.getElementById("u19");
     var reload = FrameWindowNeedsReload(objIframe, $axure.globalVariableProvider.getLinkUrl('商品评价.html'));
     if (!reload) {
 	    objIframe.src=$axure.globalVariableProvider.getLinkUrl('商品评价.html');
@@ -31,46 +20,24 @@ if (true) {
 
 }
 });
-u10.tabIndex = 0;
+u16.tabIndex = 0;
 
-u10.style.cursor = 'pointer';
-$axure.eventManager.click('u10', function(e) {
+u16.style.cursor = 'pointer';
+$axure.eventManager.click('u16', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('会员管理.html');
+    self.location.href="resources/reload.html#" + encodeURI($axure.globalVariableProvider.getLinkUrl($axure.pageData.url));
 
 }
 });
-gv_vAlignTable['u10'] = 'top';u11.tabIndex = 0;
-
-u11.style.cursor = 'pointer';
-$axure.eventManager.click('u11', function(e) {
-
-if (true) {
-
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('商品管理.html');
-
-}
-});
-gv_vAlignTable['u11'] = 'top';u12.tabIndex = 0;
-
-u12.style.cursor = 'pointer';
-$axure.eventManager.click('u12', function(e) {
+gv_vAlignTable['u16'] = 'top';
+u28.style.cursor = 'pointer';
+$axure.eventManager.click('u28', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('订单管理.html');
-
-}
-});
-gv_vAlignTable['u12'] = 'top';gv_vAlignTable['u9'] = 'center';
-u23.style.cursor = 'pointer';
-$axure.eventManager.click('u23', function(e) {
-
-if (true) {
-
-    objIframe = document.getElementById("u29");
+    objIframe = document.getElementById("u19");
     var reload = FrameWindowNeedsReload(objIframe, $axure.globalVariableProvider.getLinkUrl('用户评价.html'));
     if (!reload) {
 	    objIframe.src=$axure.globalVariableProvider.getLinkUrl('用户评价.html');
@@ -80,10 +47,43 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u25'] = 'center';u2.tabIndex = 0;
+gv_vAlignTable['u30'] = 'center';gv_vAlignTable['u21'] = 'center';u13.tabIndex = 0;
 
-u2.style.cursor = 'pointer';
-$axure.eventManager.click('u2', function(e) {
+u13.style.cursor = 'pointer';
+$axure.eventManager.click('u13', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('商品管理.html');
+
+}
+});
+gv_vAlignTable['u13'] = 'top';u14.tabIndex = 0;
+
+u14.style.cursor = 'pointer';
+$axure.eventManager.click('u14', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('订单管理.html');
+
+}
+});
+gv_vAlignTable['u14'] = 'top';gv_vAlignTable['u1'] = 'center';gv_vAlignTable['u11'] = 'center';gv_vAlignTable['u3'] = 'center';gv_vAlignTable['u27'] = 'center';u12.tabIndex = 0;
+
+u12.style.cursor = 'pointer';
+$axure.eventManager.click('u12', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('会员管理.html');
+
+}
+});
+gv_vAlignTable['u12'] = 'top';u4.tabIndex = 0;
+
+u4.style.cursor = 'pointer';
+$axure.eventManager.click('u4', function(e) {
 
 if (true) {
 
@@ -91,4 +91,4 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u2'] = 'top';gv_vAlignTable['u20'] = 'center';gv_vAlignTable['u22'] = 'center';
+gv_vAlignTable['u4'] = 'top';gv_vAlignTable['u18'] = 'center';gv_vAlignTable['u25'] = 'center';gv_vAlignTable['u33'] = 'center';

@@ -25,12 +25,42 @@ div {
 .u0_container {
     position:absolute;
     left:0px;
+    top:0px;
+    width:1165px;
+    height:750px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1165px;
+    height:750px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:367px;
+    width:1161px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_container {
+    position:absolute;
+    left:0px;
     top:46px;
     width:1101px;
     height:45px;
 }
 
-#u0_img {
+#u2_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -38,7 +68,7 @@ div {
     height:45px;
 }
 
-.u1 {
+.u3 {
     position:absolute;
     left:2px;
     top:14px;
@@ -52,7 +82,7 @@ div {
     word-wrap:break-word;
 }
 
-.u2 {
+.u4 {
     position:absolute;
     left:1066px;
     top:15px;
@@ -66,66 +96,24 @@ div {
     word-wrap:break-word;
 }
 
-.u3_line {
-    background-image: url('../商品管理_files/u3_line.png');
-}
-
-.u3_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:1101px;
-    height:3px;
-}
-
-.u3 {
-    position:absolute;
-    left:0px;
-    top:41px;
-    width:1101px;
-    height:10px;
-    
-}
-
-.u4_line {
-    background-image: url('../商品管理_files/u4_line.png');
-}
-
-.u4_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:1101px;
-    height:3px;
-}
-
-.u4 {
-    position:absolute;
-    left:-10px;
-    top:86px;
-    width:1101px;
-    height:10px;
-    
-}
-
 .u5_line {
     background-image: url('../商品管理_files/u5_line.png');
 }
 
 .u5_line {
     position:absolute;
-    left:4px;
-    top:0px;
-    width:3px;
-    height:27px;
+    left:0px;
+    top:4px;
+    width:1101px;
+    height:3px;
 }
 
 .u5 {
     position:absolute;
-    left:120px;
-    top:55px;
-    width:10px;
-    height:27px;
+    left:0px;
+    top:41px;
+    width:1101px;
+    height:10px;
     
 }
 
@@ -135,13 +123,55 @@ div {
 
 .u6_line {
     position:absolute;
+    left:0px;
+    top:4px;
+    width:1101px;
+    height:3px;
+}
+
+.u6 {
+    position:absolute;
+    left:-10px;
+    top:86px;
+    width:1101px;
+    height:10px;
+    
+}
+
+.u7_line {
+    background-image: url('../商品管理_files/u7_line.png');
+}
+
+.u7_line {
+    position:absolute;
     left:4px;
     top:0px;
     width:3px;
     height:27px;
 }
 
-.u6 {
+.u7 {
+    position:absolute;
+    left:120px;
+    top:55px;
+    width:10px;
+    height:27px;
+    
+}
+
+.u8_line {
+    background-image: url('../商品管理_files/u8_line.png');
+}
+
+.u8_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:27px;
+}
+
+.u8 {
     position:absolute;
     left:240px;
     top:55px;
@@ -150,7 +180,7 @@ div {
     
 }
 
-#u7 {
+#u9 {
     position:absolute;
     left:130px;
     top:46px;
@@ -159,7 +189,7 @@ div {
     overflow:hidden;
 }
 
-#pd0u7 {
+#pd0u9 {
     position:absolute;
     left:0px;
     top:0px;
@@ -168,7 +198,7 @@ div {
     
 }
 
-.u8_container {
+.u10_container {
     position:absolute;
     left:-7px;
     top:-8px;
@@ -176,7 +206,7 @@ div {
     height:83px;
 }
 
-#u8_img {
+#u10_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -184,7 +214,7 @@ div {
     height:83px;
 }
 
-.u9 {
+.u11 {
     position:absolute;
     left:2px;
     top:34px;
@@ -198,7 +228,7 @@ div {
     word-wrap:break-word;
 }
 
-.u10 {
+.u12 {
     position:absolute;
     left:30px;
     top:61px;
@@ -212,7 +242,7 @@ div {
     word-wrap:break-word;
 }
 
-.u11 {
+.u13 {
     position:absolute;
     left:150px;
     top:61px;
@@ -226,7 +256,7 @@ div {
     word-wrap:break-word;
 }
 
-.u12 {
+.u14 {
     position:absolute;
     left:272px;
     top:61px;
@@ -240,7 +270,7 @@ div {
     word-wrap:break-word;
 }
 
-.u13 {
+.u15 {
     position:absolute;
     left:392px;
     top:61px;
@@ -254,11 +284,11 @@ div {
     word-wrap:break-word;
 }
 
-.u14_line {
-    background-image: url('../商品管理_files/u14_line.png');
+.u16_line {
+    background-image: url('../商品管理_files/u16_line.png');
 }
 
-.u14_line {
+.u16_line {
     position:absolute;
     left:4px;
     top:0px;
@@ -266,7 +296,7 @@ div {
     height:27px;
 }
 
-.u14 {
+.u16 {
     position:absolute;
     left:360px;
     top:54px;

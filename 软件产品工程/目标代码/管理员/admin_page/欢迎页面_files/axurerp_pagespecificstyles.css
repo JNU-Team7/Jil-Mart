@@ -22,7 +22,37 @@ div {
     background-color: transparent;
 }
 
-.u0 {
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:956px;
+    height:598px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:956px;
+    height:598px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:291px;
+    width:952px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
     position:absolute;
     left:16px;
     top:12px;
