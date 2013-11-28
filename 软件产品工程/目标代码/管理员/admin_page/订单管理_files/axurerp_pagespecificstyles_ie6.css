@@ -18,18 +18,23 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="订单管理_files/u5_line.png");
 }
 
-* html .u20_normal {
+* html .u14_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="订单管理_files/u20_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="订单管理_files/u14_normal.png");
 }
 
-* html .u24_selected {
+* html .u18_selected {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="订单管理_files/u24_selected.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="订单管理_files/u18_selected.png");
 }
 
-* html .u24_normal {
+* html .u18_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="订单管理_files/u24_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="订单管理_files/u18_normal.png");
+}
+
+* html .u35_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="订单管理_files/u35_line.png");
 }
 

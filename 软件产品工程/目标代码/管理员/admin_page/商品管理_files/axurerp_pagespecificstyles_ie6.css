@@ -18,3 +18,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="商品管理_files/u6_line.png");
 }
 
+* html .u14_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="商品管理_files/u14_line.png");
+}
+

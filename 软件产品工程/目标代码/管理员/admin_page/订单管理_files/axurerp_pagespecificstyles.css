@@ -136,103 +136,7 @@ div {
     
 }
 
-#u6 {
-    position:absolute;
-    left:5px;
-    top:46px;
-    width:116px;
-    height:46px;
-    overflow:hidden;
-}
-
-#pd0u6 {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:116px;
-    height:46px;
-    
-}
-
-.u7_container {
-    position:absolute;
-    left:0px;
-    top:-8px;
-    width:150px;
-    height:66px;
-}
-
-#u7_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:150px;
-    height:66px;
-}
-
-.u8 {
-    position:absolute;
-    left:2px;
-    top:25px;
-    width:146px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-#u9 {
-    position:absolute;
-    left:130px;
-    top:46px;
-    width:111px;
-    height:46px;
-    overflow:hidden;
-}
-
-#pd0u9 {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:111px;
-    height:46px;
-    
-}
-
-.u10_container {
-    position:absolute;
-    left:-7px;
-    top:-8px;
-    width:159px;
-    height:83px;
-}
-
-#u10_img {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:159px;
-    height:83px;
-}
-
-.u11 {
-    position:absolute;
-    left:2px;
-    top:34px;
-    width:155px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u12 {
+.u6 {
     position:absolute;
     left:30px;
     top:61px;
@@ -246,7 +150,7 @@ div {
     word-wrap:break-word;
 }
 
-.u13 {
+.u7 {
     position:absolute;
     left:150px;
     top:61px;
@@ -260,7 +164,7 @@ div {
     word-wrap:break-word;
 }
 
-#u14 {
+#u8 {
     position:absolute;
     left:250px;
     top:46px;
@@ -269,7 +173,7 @@ div {
     overflow:hidden;
 }
 
-#pd0u14 {
+#pd0u8 {
     position:absolute;
     left:0px;
     top:0px;
@@ -278,7 +182,7 @@ div {
     
 }
 
-.u15_container {
+.u9_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -286,7 +190,7 @@ div {
     height:1013px;
 }
 
-#u15_img {
+#u9_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -294,7 +198,7 @@ div {
     height:1013px;
 }
 
-.u16 {
+.u10 {
     position:absolute;
     left:2px;
     top:498px;
@@ -308,7 +212,7 @@ div {
     word-wrap:break-word;
 }
 
-.u17 {
+.u11 {
     position:absolute;
     left:272px;
     top:61px;
@@ -322,7 +226,7 @@ div {
     word-wrap:break-word;
 }
 
-.u18 {
+.u12 {
     position:absolute;
     left:1066px;
     top:15px;
@@ -336,11 +240,11 @@ div {
     word-wrap:break-word;
 }
 
-.u20_normal {
-    background-image: url('../订单管理_files/u20_normal.png');
+.u14_normal {
+    background-image: url('../订单管理_files/u14_normal.png');
 }
 
-.u20_container {
+.u14_container {
     position:absolute;
     left:5px;
     top:112px;
@@ -348,7 +252,7 @@ div {
     height:486px;
 }
 
-#u20_img {
+#u14_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -356,7 +260,7 @@ div {
     height:492px;
 }
 
-.u21 {
+.u15 {
     position:absolute;
     left:2px;
     top:235px;
@@ -370,15 +274,15 @@ div {
     word-wrap:break-word;
 }
 
-.u24_selected {
-    background-image: url('../订单管理_files/u24_selected.png');
+.u18_selected {
+    background-image: url('../订单管理_files/u18_selected.png');
 }
 
-.u24_normal {
-    background-image: url('../订单管理_files/u24_normal.png');
+.u18_normal {
+    background-image: url('../订单管理_files/u18_normal.png');
 }
 
-.u24_container {
+.u18_container {
     position:absolute;
     left:6px;
     top:6px;
@@ -386,7 +290,7 @@ div {
     height:9px;
 }
 
-#u24_img {
+#u18_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -394,7 +298,7 @@ div {
     height:9px;
 }
 
-.u25 {
+.u19 {
     position:absolute;
     left:2px;
     top:-4px;
@@ -408,6 +312,74 @@ div {
     word-wrap:break-word;
 }
 
+.u20_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u20_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:57px;
+    height:20px;
+}
+
+#u20_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:63px;
+    height:26px;
+}
+
+.u21 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:52px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
+.u23_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u23_container {
+    position:absolute;
+    left:22px;
+    top:0px;
+    width:44px;
+    height:20px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:50px;
+    height:26px;
+}
+
+.u24 {
+    position:absolute;
+    left:3px;
+    top:2px;
+    width:39px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    white-space:nowrap;
+}
+
 .u26_normal {
     background-image: url('../resources/images/transparent.gif');
 }
@@ -416,7 +388,7 @@ div {
     position:absolute;
     left:22px;
     top:0px;
-    width:57px;
+    width:44px;
     height:20px;
 }
 
@@ -424,7 +396,7 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:63px;
+    width:50px;
     height:26px;
 }
 
@@ -432,7 +404,7 @@ div {
     position:absolute;
     left:3px;
     top:2px;
-    width:52px;
+    width:39px;
     height:15px;
     ;
     ;
@@ -510,71 +482,38 @@ div {
     white-space:nowrap;
 }
 
-.u35_normal {
-    background-image: url('../resources/images/transparent.gif');
-}
-
-.u35_container {
+.u34 {
     position:absolute;
-    left:22px;
-    top:0px;
-    width:44px;
-    height:20px;
-}
-
-#u35_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:50px;
-    height:26px;
-}
-
-.u36 {
-    position:absolute;
-    left:3px;
-    top:2px;
-    width:39px;
-    height:15px;
+    left:392px;
+    top:61px;
+    width:67px;
+    height:19px;
     ;
     ;
     ;
     font-family:Arial;
     text-align:left;
-    white-space:nowrap;
+    word-wrap:break-word;
 }
 
-.u38_normal {
-    background-image: url('../resources/images/transparent.gif');
+.u35_line {
+    background-image: url('../订单管理_files/u35_line.png');
 }
 
-.u38_container {
+.u35_line {
     position:absolute;
-    left:22px;
+    left:4px;
     top:0px;
-    width:44px;
-    height:20px;
+    width:3px;
+    height:27px;
 }
 
-#u38_img {
+.u35 {
     position:absolute;
-    left:-3px;
-    top:-3px;
-    width:50px;
-    height:26px;
-}
-
-.u39 {
-    position:absolute;
-    left:3px;
-    top:2px;
-    width:39px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    white-space:nowrap;
+    left:360px;
+    top:54px;
+    width:10px;
+    height:27px;
+    
 }
 
