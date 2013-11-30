@@ -28,18 +28,28 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="商品管理_files/u18_normal.png");
 }
 
-* html .u32_selected {
+* html .u26_selected {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="商品管理_files/u18_selected.png");
 }
 
-* html .u32_normal {
+* html .u26_normal {
     background-image: none;
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="商品管理_files/u18_normal.png");
 }
 
-* html .u47_line {
+* html .u55_selected {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="商品管理_files/u47_line.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="商品管理_files/u18_selected.png");
+}
+
+* html .u55_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="商品管理_files/u18_normal.png");
+}
+
+* html .u70_line {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="商品管理_files/u70_line.png");
 }
 

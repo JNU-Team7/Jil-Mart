@@ -70,14 +70,14 @@
 <div id="u15" class="u15"  >
 <div id="u15_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">会员</span><span style="font-family:Arial;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">管理</span></p></div>
 </div>
-<DIV id="u16" class="treeroot" style="position:absolute; left:12px; top:124px; width:104px; height:165px; overflow:visible;" >
+<DIV id="u16" class="treeroot" style="position:absolute; left:12px; top:124px; width:112px; height:305px; overflow:visible;" >
 <script type="text/javascript">
     var currentSelectedu16 = new Object();
 </script>
 
 <DIV id="cncu16" style="position:absolute; left:0px; top:0px; width:1px; height:1px; overflow:visible; " >
 
-<DIV id="u17" class="treenode" style="position:absolute; left:0px; top:0px; width:79px; height:20px; overflow:visible;">
+<DIV id="u17" class="treenode" style="position:absolute; left:0px; top:0px; width:80px; height:20px; overflow:visible;">
 
 <div id="u18" class="u18_container"   >
 <div id="u18_img" class="u18_normal detectCanvas"></div>
@@ -104,7 +104,7 @@ $('#u17').click(function(){SelectTreeNode(currentSelectedu16, false, 'u20', 'u21
 </script>
 <DIV id="cncu17" style="position:absolute; left:0px; top:0px; width:1px; height:1px; overflow:visible; " >
 
-<DIV id="u22" class="treenode" style="position:absolute; left:20px; top:20px; width:79px; height:20px; overflow:visible;">
+<DIV id="u22" class="treenode" style="position:absolute; left:20px; top:20px; width:80px; height:20px; overflow:visible;">
 
 <div id="u23" class="u23_container"   >
 <div id="u23_img" class="u23_normal detectCanvas"></div>
@@ -116,111 +116,212 @@ $('#u17').click(function(){SelectTreeNode(currentSelectedu16, false, 'u20', 'u21
 $('#u22').click(function(){SelectTreeNode(currentSelectedu16, false, 'u23', 'u24');});
 </script>
 </DIV>
-<DIV id="u25" class="treenode" style="position:absolute; left:20px; top:40px; width:79px; height:20px; overflow:visible;">
+<DIV id="u25" class="treenode" style="position:absolute; left:20px; top:40px; width:80px; height:20px; overflow:visible;">
 
 <div id="u26" class="u26_container"   >
 <div id="u26_img" class="u26_normal detectCanvas"></div>
-<div id="u27" class="u27"  >
-<div id="u27_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">新增商品</span></p></div>
+<div id="u27" class="u27" style="visibility:hidden;"  >
+<div id="u27_rtf"></div>
 </div>
 </div>
 <script type="text/javascript">
-$('#u25').click(function(){SelectTreeNode(currentSelectedu16, false, 'u26', 'u27');});
+        $('#u26_img').removeClass('u26_normal').addClass('u26_selected');
 </script>
-</DIV>
-<DIV id="u28" class="treenode" style="position:absolute; left:20px; top:60px; width:79px; height:20px; overflow:visible;">
 
-<div id="u29" class="u29_container"   >
-<div id="u29_img" class="u29_normal detectCanvas"></div>
-<div id="u30" class="u30"  >
-<div id="u30_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">删除商品</span></p></div>
+<div id="u28" class="u28_container"   >
+<div id="u28_img" class="u28_normal detectCanvas"></div>
+<div id="u29" class="u29"  >
+<div id="u29_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">商品分类</span></p></div>
 </div>
 </div>
 <script type="text/javascript">
-$('#u28').click(function(){SelectTreeNode(currentSelectedu16, false, 'u29', 'u30');});
+InitializeTreeNode('u25', 'u26', 'cncu25' , "SelectTreeNode(currentSelectedu16, false, 'u28', 'u29');");
 </script>
-</DIV>
-</DIV>
-</DIV>
-<DIV id="u31" class="treenode" style="position:absolute; left:0px; top:80px; width:79px; height:20px; overflow:visible;">
 
-<div id="u32" class="u32_container"   >
-<div id="u32_img" class="u32_normal detectCanvas"></div>
-<div id="u33" class="u33" style="visibility:hidden;"  >
-<div id="u33_rtf"></div>
+<script type="text/javascript">
+$('#u25').click(function(){SelectTreeNode(currentSelectedu16, false, 'u28', 'u29');});
+</script>
+<DIV id="cncu25" style="position:absolute; left:0px; top:0px; width:1px; height:1px; overflow:visible; " >
+
+<DIV id="u30" class="treenode" style="position:absolute; left:20px; top:20px; width:67px; height:20px; overflow:visible;">
+
+<div id="u31" class="u31_container"   >
+<div id="u31_img" class="u31_normal detectCanvas"></div>
+<div id="u32" class="u32"  >
+<div id="u32_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">日用品</span></p></div>
 </div>
 </div>
 <script type="text/javascript">
-        $('#u32_img').removeClass('u32_normal').addClass('u32_selected');
+$('#u30').click(function(){SelectTreeNode(currentSelectedu16, false, 'u31', 'u32');});
 </script>
+</DIV>
+<DIV id="u33" class="treenode" style="position:absolute; left:20px; top:40px; width:54px; height:20px; overflow:visible;">
 
 <div id="u34" class="u34_container"   >
 <div id="u34_img" class="u34_normal detectCanvas"></div>
 <div id="u35" class="u35"  >
-<div id="u35_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">商品</span><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">信息</span></p></div>
+<div id="u35_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">家纺</span></p></div>
 </div>
 </div>
 <script type="text/javascript">
-InitializeTreeNode('u31', 'u32', 'cncu31' , "SelectTreeNode(currentSelectedu16, false, 'u34', 'u35');");
+$('#u33').click(function(){SelectTreeNode(currentSelectedu16, false, 'u34', 'u35');});
 </script>
-
-<script type="text/javascript">
-$('#u31').click(function(){SelectTreeNode(currentSelectedu16, false, 'u34', 'u35');});
-</script>
-<DIV id="cncu31" style="position:absolute; left:0px; top:0px; width:1px; height:1px; overflow:visible; " >
-
-<DIV id="u36" class="treenode" style="position:absolute; left:20px; top:20px; width:79px; height:20px; overflow:visible;">
+</DIV>
+<DIV id="u36" class="treenode" style="position:absolute; left:20px; top:60px; width:54px; height:20px; overflow:visible;">
 
 <div id="u37" class="u37_container"   >
 <div id="u37_img" class="u37_normal detectCanvas"></div>
 <div id="u38" class="u38"  >
-<div id="u38_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">商品库存</span></p></div>
+<div id="u38_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">电器</span></p></div>
 </div>
 </div>
 <script type="text/javascript">
 $('#u36').click(function(){SelectTreeNode(currentSelectedu16, false, 'u37', 'u38');});
 </script>
 </DIV>
-<DIV id="u39" class="treenode" style="position:absolute; left:20px; top:40px; width:79px; height:20px; overflow:visible;">
+<DIV id="u39" class="treenode" style="position:absolute; left:20px; top:80px; width:54px; height:20px; overflow:visible;">
 
 <div id="u40" class="u40_container"   >
 <div id="u40_img" class="u40_normal detectCanvas"></div>
 <div id="u41" class="u41"  >
-<div id="u41_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">信息修改</span></p></div>
+<div id="u41_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">数码</span></p></div>
 </div>
 </div>
 <script type="text/javascript">
 $('#u39').click(function(){SelectTreeNode(currentSelectedu16, false, 'u40', 'u41');});
 </script>
 </DIV>
-</DIV>
-</DIV>
-<DIV id="u42" class="treenode" style="position:absolute; left:0px; top:140px; width:79px; height:20px; overflow:visible;">
+<DIV id="u42" class="treenode" style="position:absolute; left:20px; top:100px; width:54px; height:20px; overflow:visible;">
 
 <div id="u43" class="u43_container"   >
 <div id="u43_img" class="u43_normal detectCanvas"></div>
 <div id="u44" class="u44"  >
-<div id="u44_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">商品销量</span></p></div>
+<div id="u44_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">文具</span></p></div>
 </div>
 </div>
 <script type="text/javascript">
 $('#u42').click(function(){SelectTreeNode(currentSelectedu16, false, 'u43', 'u44');});
 </script>
 </DIV>
-</DIV>
-</DIV>
-<IFRAME id="u45" style="position:absolute; left:162px; top:112px; width:939px; height:487px; ; ; ;;" basesrc="欢迎页面.html" frameborder="1" scrolling="no" ></IFRAME>
+<DIV id="u45" class="treenode" style="position:absolute; left:20px; top:120px; width:54px; height:20px; overflow:visible;">
 
-<div id="u46" class="u46"  >
-<div id="u46_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">订</span><span style="font-family:Arial;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">单管理</span></p></div>
-</div><div id="u47" class="u47" >
-<DIV id="u47_line" class="u47_line" ></DIV>
-</div>
-<div id="u48" class="u48"  >
-<div id="u48_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">评价管理</span></p></div>
+<div id="u46" class="u46_container"   >
+<div id="u46_img" class="u46_normal detectCanvas"></div>
+<div id="u47" class="u47"  >
+<div id="u47_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">生鲜</span></p></div>
 </div>
 </div>
-<div class="preload"><img src="商品管理_files/u0_normal.jpg" width="1" height="1"/><img src="商品管理_files/u2_normal.jpg" width="1" height="1"/><img src="商品管理_files/u4_normal.jpg" width="1" height="1"/><img src="商品管理_files/u7_line.png" width="1" height="1"/><img src="商品管理_files/u8_line.png" width="1" height="1"/><img src="商品管理_files/u9_line.png" width="1" height="1"/><img src="商品管理_files/u10_line.png" width="1" height="1"/><img src="商品管理_files/u12_normal.jpg" width="1" height="1"/><img src="商品管理_files/u18_selected.png" width="1" height="1"/><img src="商品管理_files/u18_normal.png" width="1" height="1"/><img src="商品管理_files/u47_line.png" width="1" height="1"/></div>
+<script type="text/javascript">
+$('#u45').click(function(){SelectTreeNode(currentSelectedu16, false, 'u46', 'u47');});
+</script>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="u48" class="treenode" style="position:absolute; left:20px; top:180px; width:80px; height:20px; overflow:visible;">
+
+<div id="u49" class="u49_container"   >
+<div id="u49_img" class="u49_normal detectCanvas"></div>
+<div id="u50" class="u50"  >
+<div id="u50_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">新增商品</span></p></div>
+</div>
+</div>
+<script type="text/javascript">
+$('#u48').click(function(){SelectTreeNode(currentSelectedu16, false, 'u49', 'u50');});
+</script>
+</DIV>
+<DIV id="u51" class="treenode" style="position:absolute; left:20px; top:200px; width:80px; height:20px; overflow:visible;">
+
+<div id="u52" class="u52_container"   >
+<div id="u52_img" class="u52_normal detectCanvas"></div>
+<div id="u53" class="u53"  >
+<div id="u53_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">删除商品</span></p></div>
+</div>
+</div>
+<script type="text/javascript">
+$('#u51').click(function(){SelectTreeNode(currentSelectedu16, false, 'u52', 'u53');});
+</script>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="u54" class="treenode" style="position:absolute; left:0px; top:220px; width:80px; height:20px; overflow:visible;">
+
+<div id="u55" class="u55_container"   >
+<div id="u55_img" class="u55_normal detectCanvas"></div>
+<div id="u56" class="u56" style="visibility:hidden;"  >
+<div id="u56_rtf"></div>
+</div>
+</div>
+<script type="text/javascript">
+        $('#u55_img').removeClass('u55_normal').addClass('u55_selected');
+</script>
+
+<div id="u57" class="u57_container"   >
+<div id="u57_img" class="u57_normal detectCanvas"></div>
+<div id="u58" class="u58"  >
+<div id="u58_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">商品</span><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">信息</span></p></div>
+</div>
+</div>
+<script type="text/javascript">
+InitializeTreeNode('u54', 'u55', 'cncu54' , "SelectTreeNode(currentSelectedu16, false, 'u57', 'u58');");
+</script>
+
+<script type="text/javascript">
+$('#u54').click(function(){SelectTreeNode(currentSelectedu16, false, 'u57', 'u58');});
+</script>
+<DIV id="cncu54" style="position:absolute; left:0px; top:0px; width:1px; height:1px; overflow:visible; " >
+
+<DIV id="u59" class="treenode" style="position:absolute; left:20px; top:20px; width:80px; height:20px; overflow:visible;">
+
+<div id="u60" class="u60_container"   >
+<div id="u60_img" class="u60_normal detectCanvas"></div>
+<div id="u61" class="u61"  >
+<div id="u61_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">商品库存</span></p></div>
+</div>
+</div>
+<script type="text/javascript">
+$('#u59').click(function(){SelectTreeNode(currentSelectedu16, false, 'u60', 'u61');});
+</script>
+</DIV>
+<DIV id="u62" class="treenode" style="position:absolute; left:20px; top:40px; width:80px; height:20px; overflow:visible;">
+
+<div id="u63" class="u63_container"   >
+<div id="u63_img" class="u63_normal detectCanvas"></div>
+<div id="u64" class="u64"  >
+<div id="u64_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">信息修改</span></p></div>
+</div>
+</div>
+<script type="text/javascript">
+$('#u62').click(function(){SelectTreeNode(currentSelectedu16, false, 'u63', 'u64');});
+</script>
+</DIV>
+</DIV>
+</DIV>
+<DIV id="u65" class="treenode" style="position:absolute; left:0px; top:280px; width:80px; height:20px; overflow:visible;">
+
+<div id="u66" class="u66_container"   >
+<div id="u66_img" class="u66_normal detectCanvas"></div>
+<div id="u67" class="u67"  >
+<div id="u67_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;color:#333333;">商品销量</span></p></div>
+</div>
+</div>
+<script type="text/javascript">
+$('#u65').click(function(){SelectTreeNode(currentSelectedu16, false, 'u66', 'u67');});
+</script>
+</DIV>
+</DIV>
+</DIV>
+<IFRAME id="u68" style="position:absolute; left:162px; top:112px; width:939px; height:487px; ; ; ;;" basesrc="欢迎页面.html" frameborder="1" scrolling="no" ></IFRAME>
+
+<div id="u69" class="u69"  >
+<div id="u69_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">订</span><span style="font-family:Arial;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">单管理</span></p></div>
+</div><div id="u70" class="u70" >
+<DIV id="u70_line" class="u70_line" ></DIV>
+</div>
+<div id="u71" class="u71"  >
+<div id="u71_rtf"><p style="text-align:left;"><span style="font-family:Arial;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#000000;">评价管理</span></p></div>
+</div>
+</div>
+<div class="preload"><img src="商品管理_files/u0_normal.jpg" width="1" height="1"/><img src="商品管理_files/u2_normal.jpg" width="1" height="1"/><img src="商品管理_files/u4_normal.jpg" width="1" height="1"/><img src="商品管理_files/u7_line.png" width="1" height="1"/><img src="商品管理_files/u8_line.png" width="1" height="1"/><img src="商品管理_files/u9_line.png" width="1" height="1"/><img src="商品管理_files/u10_line.png" width="1" height="1"/><img src="商品管理_files/u12_normal.jpg" width="1" height="1"/><img src="商品管理_files/u18_selected.png" width="1" height="1"/><img src="商品管理_files/u18_normal.png" width="1" height="1"/><img src="商品管理_files/u70_line.png" width="1" height="1"/></div>
 </body>
 <script src="resources/scripts/axurerp_pagescript.js"></script>
 <script src="商品管理_files/axurerp_pagespecificscript.js" charset="utf-8"></script>
