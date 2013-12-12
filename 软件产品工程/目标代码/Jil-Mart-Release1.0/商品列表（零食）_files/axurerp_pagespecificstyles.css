@@ -1,0 +1,1742 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:636px;
+    top:1934px;
+    width:197px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1_line {
+    background-image: url('../Copyright_files/u1_line.png');
+}
+
+.u1_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:1400px;
+    height:3px;
+}
+
+.u1 {
+    position:absolute;
+    left:253px;
+    top:1902px;
+    width:1400px;
+    height:10px;
+    
+}
+
+.u3_normal {
+    background-image: url('../User_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:11px;
+    top:0px;
+    width:1388px;
+    height:176px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1394px;
+    height:182px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:80px;
+    width:1384px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../User_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:11px;
+    top:186px;
+    width:235px;
+    height:1708px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:241px;
+    height:1714px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:846px;
+    width:231px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../User_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:366px;
+    top:81px;
+    width:509px;
+    height:47px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:515px;
+    height:53px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:505px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_container {
+    position:absolute;
+    left:67px;
+    top:46px;
+    width:202px;
+    height:130px;
+}
+
+#u9_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:202px;
+    height:130px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:57px;
+    width:198px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:665px;
+    top:10px;
+    width:79px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:89px;
+    top:10px;
+    width:32px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:152px;
+    top:10px;
+    width:32px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:783px;
+    top:10px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15 {
+    position:absolute;
+    left:380px;
+    top:88px;
+    width:415px;
+    height:33px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Arial';
+    font-size: 15px;
+    color:#CCCCCC;
+    font-style:normal;
+    font-weight:bold;
+    text-decoration:none;
+    
+}
+
+.u16_normal {
+    background-image: url('../User_files/u16_normal.png');
+}
+
+.u16_container {
+    position:absolute;
+    left:820px;
+    top:88px;
+    width:33px;
+    height:33px;
+}
+
+#u16_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:33px;
+    height:33px;
+}
+
+.u17 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:29px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u18_line {
+    background-image: url('../User_files/u18_line.png');
+}
+
+.u18_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:1388px;
+    height:5px;
+}
+
+.u18 {
+    position:absolute;
+    left:11px;
+    top:36px;
+    width:1388px;
+    height:10px;
+    
+}
+
+.u19_line {
+    background-image: url('../User_files/u19_line.png');
+}
+
+.u19_line {
+    position:absolute;
+    left:0px;
+    top:2px;
+    width:1388px;
+    height:7px;
+}
+
+.u19 {
+    position:absolute;
+    left:11px;
+    top:176px;
+    width:1388px;
+    height:10px;
+    
+}
+
+.u20_line {
+    background-image: url('../User_files/u20_line.png');
+}
+
+.u20_line {
+    position:absolute;
+    left:3px;
+    top:0px;
+    width:5px;
+    height:1708px;
+}
+
+.u20 {
+    position:absolute;
+    left:246px;
+    top:186px;
+    width:10px;
+    height:1708px;
+    
+}
+
+.u21_normal {
+    background-image: url('../User_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:25px;
+    top:196px;
+    width:212px;
+    height:42px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:218px;
+    height:48px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:13px;
+    width:208px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:41px;
+    top:205px;
+    width:196px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24_normal {
+    background-image: url('../User_files/u24_normal.png');
+}
+
+.u24_container {
+    position:absolute;
+    left:42px;
+    top:293px;
+    width:180px;
+    height:178px;
+}
+
+#u24_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:180px;
+    height:178px;
+}
+
+.u25 {
+    position:absolute;
+    left:2px;
+    top:81px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u26_normal {
+    background-image: url('../User_files/u26_normal.png');
+}
+
+.u26_container {
+    position:absolute;
+    left:67px;
+    top:248px;
+    width:123px;
+    height:35px;
+}
+
+#u26_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:129px;
+    height:41px;
+}
+
+.u27 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:119px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28 {
+    position:absolute;
+    left:89px;
+    top:254px;
+    width:84px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29 {
+    position:absolute;
+    left:54px;
+    top:481px;
+    width:163px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:67px;
+    top:510px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:128px;
+    top:498px;
+    width:62px;
+    height:41px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32 {
+    position:absolute;
+    left:54px;
+    top:750px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u33 {
+    position:absolute;
+    left:66px;
+    top:779px;
+    width:150px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u34 {
+    position:absolute;
+    left:128px;
+    top:769px;
+    width:88px;
+    height:41px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u35_normal {
+    background-image: url('../User_files/u35_normal.png');
+}
+
+.u35_container {
+    position:absolute;
+    left:41px;
+    top:562px;
+    width:180px;
+    height:178px;
+}
+
+#u35_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:180px;
+    height:178px;
+}
+
+.u36 {
+    position:absolute;
+    left:2px;
+    top:81px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37_normal {
+    background-image: url('../User_files/u26_normal.png');
+}
+
+.u37_container {
+    position:absolute;
+    left:67px;
+    top:840px;
+    width:123px;
+    height:35px;
+}
+
+#u37_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:129px;
+    height:41px;
+}
+
+.u38 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:119px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:89px;
+    top:846px;
+    width:84px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40_normal {
+    background-image: url('../User_files/u40_normal.png');
+}
+
+.u40_container {
+    position:absolute;
+    left:44px;
+    top:898px;
+    width:180px;
+    height:218px;
+}
+
+#u40_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:224px;
+}
+
+.u41 {
+    position:absolute;
+    left:2px;
+    top:101px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42_container {
+    position:absolute;
+    left:45px;
+    top:899px;
+    width:179px;
+    height:168px;
+}
+
+#u42_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:179px;
+    height:168px;
+}
+
+.u43 {
+    position:absolute;
+    left:2px;
+    top:76px;
+    width:175px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44 {
+    position:absolute;
+    left:55px;
+    top:1077px;
+    width:166px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u45 {
+    position:absolute;
+    left:78px;
+    top:1126px;
+    width:119px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../User_files/u40_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:44px;
+    top:1154px;
+    width:180px;
+    height:218px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:224px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:101px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_container {
+    position:absolute;
+    left:45px;
+    top:1155px;
+    width:179px;
+    height:168px;
+}
+
+#u48_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:179px;
+    height:168px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:76px;
+    width:175px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50 {
+    position:absolute;
+    left:58px;
+    top:1332px;
+    width:152px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u51 {
+    position:absolute;
+    left:80px;
+    top:1382px;
+    width:130px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_line {
+    background-image: url('../User_files/u52_line.png');
+}
+
+.u52_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:236px;
+    height:5px;
+}
+
+.u52 {
+    position:absolute;
+    left:11px;
+    top:812px;
+    width:236px;
+    height:10px;
+    
+}
+
+.u53_line {
+    background-image: url('../User_files/u53_line.png');
+}
+
+.u53_line {
+    position:absolute;
+    left:0px;
+    top:3px;
+    width:236px;
+    height:5px;
+}
+
+.u53 {
+    position:absolute;
+    left:13px;
+    top:1420px;
+    width:236px;
+    height:10px;
+    
+}
+
+.u54_normal {
+    background-image: url('../User_files/u54_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:54px;
+    top:1449px;
+    width:143px;
+    height:35px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:149px;
+    height:41px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:139px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:67px;
+    top:1455px;
+    width:130px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57_normal {
+    background-image: url('../User_files/u57_normal.png');
+}
+
+.u57_container {
+    position:absolute;
+    left:26px;
+    top:1507px;
+    width:210px;
+    height:148px;
+}
+
+#u57_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:210px;
+    height:148px;
+}
+
+.u58 {
+    position:absolute;
+    left:2px;
+    top:66px;
+    width:206px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:54px;
+    top:1671px;
+    width:162px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60 {
+    position:absolute;
+    left:366px;
+    top:138px;
+    width:531px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61_normal {
+    background-image: url('../resources/images/transparent.gif');
+}
+
+.u61_container {
+    position:absolute;
+    left:394px;
+    top:138px;
+    width:50px;
+    height:16px;
+}
+
+#u61_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:56px;
+    height:22px;
+}
+
+.u62 {
+    position:absolute;
+    left:2px;
+    top:0px;
+    width:46px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_line {
+    background-image: url('../商品列表（零食）_files/u64_line.png');
+}
+
+.u64_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:728px;
+    height:3px;
+}
+
+.u64 {
+    position:absolute;
+    left:277px;
+    top:252px;
+    width:728px;
+    height:10px;
+    
+}
+
+.u65_container {
+    position:absolute;
+    left:284px;
+    top:272px;
+    width:138px;
+    height:138px;
+}
+
+#u65_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:138px;
+    height:138px;
+}
+
+.u66 {
+    position:absolute;
+    left:2px;
+    top:61px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../商品列表（零食）_files/u67_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:830px;
+    top:272px;
+    width:138px;
+    height:138px;
+}
+
+#u67_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:138px;
+    height:138px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:61px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69_normal {
+    background-image: url('../商品列表（零食）_files/u69_normal.png');
+}
+
+.u69_container {
+    position:absolute;
+    left:647px;
+    top:272px;
+    width:138px;
+    height:138px;
+}
+
+#u69_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:138px;
+    height:138px;
+}
+
+.u70 {
+    position:absolute;
+    left:2px;
+    top:61px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71_normal {
+    background-image: url('../商品列表（零食）_files/u71_normal.png');
+}
+
+.u71_container {
+    position:absolute;
+    left:464px;
+    top:272px;
+    width:138px;
+    height:138px;
+}
+
+#u71_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:138px;
+    height:138px;
+}
+
+.u72 {
+    position:absolute;
+    left:2px;
+    top:61px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u73 {
+    position:absolute;
+    left:284px;
+    top:420px;
+    width:139px;
+    height:17px;
+    overflow:hidden;
+}
+
+#pd1u73 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:139px;
+    height:17px;
+    
+}
+
+.u74 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u73 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:139px;
+    height:17px;
+    
+}
+
+.u75 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u76 {
+    position:absolute;
+    left:284px;
+    top:436px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77 {
+    position:absolute;
+    left:284px;
+    top:452px;
+    width:148px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u78 {
+    position:absolute;
+    left:464px;
+    top:436px;
+    width:48px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79 {
+    position:absolute;
+    left:647px;
+    top:436px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80 {
+    position:absolute;
+    left:830px;
+    top:436px;
+    width:49px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u81 {
+    position:absolute;
+    left:464px;
+    top:452px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u82 {
+    position:absolute;
+    left:647px;
+    top:452px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83 {
+    position:absolute;
+    left:830px;
+    top:452px;
+    width:152px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84 {
+    position:absolute;
+    left:464px;
+    top:420px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85 {
+    position:absolute;
+    left:647px;
+    top:420px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:830px;
+    top:420px;
+    width:145px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u87_normal {
+    background-image: url('../商品列表（零食）_files/u87_normal.png');
+}
+
+.u87_container {
+    position:absolute;
+    left:284px;
+    top:491px;
+    width:138px;
+    height:138px;
+}
+
+#u87_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:138px;
+    height:138px;
+}
+
+.u88 {
+    position:absolute;
+    left:2px;
+    top:61px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89 {
+    position:absolute;
+    left:284px;
+    top:639px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90 {
+    position:absolute;
+    left:292px;
+    top:655px;
+    width:48px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u91 {
+    position:absolute;
+    left:292px;
+    top:671px;
+    width:158px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92_normal {
+    background-image: url('../商品列表（零食）_files/u87_normal.png');
+}
+
+.u92_container {
+    position:absolute;
+    left:294px;
+    top:501px;
+    width:138px;
+    height:138px;
+}
+
+#u92_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:138px;
+    height:138px;
+}
+
+.u93 {
+    position:absolute;
+    left:2px;
+    top:61px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94_normal {
+    background-image: url('../商品列表（零食）_files/u94_normal.png');
+}
+
+.u94_container {
+    position:absolute;
+    left:830px;
+    top:501px;
+    width:138px;
+    height:138px;
+}
+
+#u94_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:138px;
+    height:138px;
+}
+
+.u95 {
+    position:absolute;
+    left:2px;
+    top:61px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96_normal {
+    background-image: url('../商品列表（零食）_files/u96_normal.png');
+}
+
+.u96_container {
+    position:absolute;
+    left:647px;
+    top:501px;
+    width:138px;
+    height:138px;
+}
+
+#u96_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:138px;
+    height:138px;
+}
+
+.u97 {
+    position:absolute;
+    left:2px;
+    top:61px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u98_normal {
+    background-image: url('../商品列表（零食）_files/u98_normal.png');
+}
+
+.u98_container {
+    position:absolute;
+    left:464px;
+    top:501px;
+    width:138px;
+    height:138px;
+}
+
+#u98_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:138px;
+    height:138px;
+}
+
+.u99 {
+    position:absolute;
+    left:2px;
+    top:61px;
+    width:134px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100 {
+    position:absolute;
+    left:647px;
+    top:639px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u101 {
+    position:absolute;
+    left:830px;
+    top:639px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102 {
+    position:absolute;
+    left:464px;
+    top:639px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103 {
+    position:absolute;
+    left:472px;
+    top:655px;
+    width:48px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u104 {
+    position:absolute;
+    left:838px;
+    top:671px;
+    width:152px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105 {
+    position:absolute;
+    left:655px;
+    top:671px;
+    width:150px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106 {
+    position:absolute;
+    left:472px;
+    top:671px;
+    width:161px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u107 {
+    position:absolute;
+    left:655px;
+    top:655px;
+    width:48px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108 {
+    position:absolute;
+    left:838px;
+    top:655px;
+    width:48px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109 {
+    position:absolute;
+    left:278px;
+    top:209px;
+    width:150px;
+    height:33px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
