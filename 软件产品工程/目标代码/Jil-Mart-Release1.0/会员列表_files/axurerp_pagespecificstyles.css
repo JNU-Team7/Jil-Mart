@@ -4788,8 +4788,8 @@ div {
 
 #u281 {
     position:absolute;
-    left:240px;
-    top:128px;
+    left:243px;
+    top:70px;
     width:277px;
     height:330px;
     overflow:hidden;
@@ -5137,7 +5137,7 @@ div {
 #u305 {
     position:absolute;
     left:240px;
-    top:154px;
+    top:110px;
     width:283px;
     height:290px;
     overflow:hidden;
@@ -5525,6 +5525,20 @@ div {
 }
 
 .u336 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:82px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u338 {
     position:absolute;
     left:16px;
     top:0px;
