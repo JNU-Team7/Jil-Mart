@@ -34,7 +34,29 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u62'] = 'top';gv_vAlignTable['u178'] = 'top';gv_vAlignTable['u200'] = 'top';gv_vAlignTable['u34'] = 'top';gv_vAlignTable['u68'] = 'top';gv_vAlignTable['u184'] = 'top';gv_vAlignTable['u228'] = 'top';gv_vAlignTable['u112'] = 'top';gv_vAlignTable['u216'] = 'top';gv_vAlignTable['u146'] = 'top';gv_vAlignTable['u214'] = 'top';gv_vAlignTable['u44'] = 'top';gv_vAlignTable['u78'] = 'top';gv_vAlignTable['u208'] = 'top';gv_vAlignTable['u253'] = 'center';gv_vAlignTable['u172'] = 'top';gv_vAlignTable['u158'] = 'top';gv_vAlignTable['u54'] = 'top';gv_vAlignTable['u118'] = 'top';gv_vAlignTable['u38'] = 'top';gv_vAlignTable['u52'] = 'top';gv_vAlignTable['u176'] = 'top';gv_vAlignTable['u26'] = 'top';gv_vAlignTable['u174'] = 'top';gv_vAlignTable['u128'] = 'top';gv_vAlignTable['u254'] = 'top';gv_vAlignTable['u182'] = 'top';gv_vAlignTable['u258'] = 'center';gv_vAlignTable['u10'] = 'top';gv_vAlignTable['u204'] = 'top';gv_vAlignTable['u100'] = 'top';gv_vAlignTable['u202'] = 'top';gv_vAlignTable['u166'] = 'top';gv_vAlignTable['u82'] = 'top';gv_vAlignTable['u30'] = 'top';gv_vAlignTable['u136'] = 'top';gv_vAlignTable['u116'] = 'top';gv_vAlignTable['u74'] = 'top';gv_vAlignTable['u114'] = 'top';gv_vAlignTable['u160'] = 'top';gv_vAlignTable['u92'] = 'top';gv_vAlignTable['u46'] = 'top';gv_vAlignTable['u198'] = 'top';gv_vAlignTable['u98'] = 'top';gv_vAlignTable['u256'] = 'top';gv_vAlignTable['u240'] = 'top';gv_vAlignTable['u56'] = 'top';gv_vAlignTable['u150'] = 'top';gv_vAlignTable['u28'] = 'top';gv_vAlignTable['u142'] = 'top';gv_vAlignTable['u106'] = 'top';gv_vAlignTable['u168'] = 'top';gv_vAlignTable['u40'] = 'top';gv_vAlignTable['u104'] = 'top';gv_vAlignTable['u192'] = 'top';gv_vAlignTable['u102'] = 'top';gv_vAlignTable['u164'] = 'top';gv_vAlignTable['u206'] = 'top';gv_vAlignTable['u84'] = 'top';gv_vAlignTable['u50'] = 'top';gv_vAlignTable['u239'] = 'center';gv_vAlignTable['u260'] = 'top';gv_vAlignTable['u170'] = 'top';gv_vAlignTable['u76'] = 'top';gv_vAlignTable['u134'] = 'top';gv_vAlignTable['u264'] = 'top';gv_vAlignTable['u94'] = 'top';gv_vAlignTable['u60'] = 'top';gv_vAlignTable['u190'] = 'top';gv_vAlignTable['u234'] = 'top';gv_vAlignTable['u277'] = 'top';gv_vAlignTable['u242'] = 'top';gv_vAlignTable['u64'] = 'top';gv_vAlignTable['u70'] = 'top';
+gv_vAlignTable['u62'] = 'top';gv_vAlignTable['u178'] = 'top';gv_vAlignTable['u200'] = 'top';gv_vAlignTable['u34'] = 'top';gv_vAlignTable['u68'] = 'top';gv_vAlignTable['u184'] = 'top';gv_vAlignTable['u228'] = 'top';gv_vAlignTable['u112'] = 'top';gv_vAlignTable['u216'] = 'top';gv_vAlignTable['u146'] = 'top';gv_vAlignTable['u214'] = 'top';gv_vAlignTable['u44'] = 'top';gv_vAlignTable['u78'] = 'top';gv_vAlignTable['u208'] = 'top';gv_vAlignTable['u253'] = 'center';gv_vAlignTable['u172'] = 'top';gv_vAlignTable['u158'] = 'top';gv_vAlignTable['u54'] = 'top';gv_vAlignTable['u118'] = 'top';gv_vAlignTable['u38'] = 'top';gv_vAlignTable['u52'] = 'top';gv_vAlignTable['u176'] = 'top';gv_vAlignTable['u26'] = 'top';gv_vAlignTable['u174'] = 'top';gv_vAlignTable['u128'] = 'top';gv_vAlignTable['u254'] = 'top';gv_vAlignTable['u182'] = 'top';gv_vAlignTable['u258'] = 'center';gv_vAlignTable['u10'] = 'top';gv_vAlignTable['u204'] = 'top';gv_vAlignTable['u100'] = 'top';gv_vAlignTable['u202'] = 'top';gv_vAlignTable['u166'] = 'top';gv_vAlignTable['u82'] = 'top';gv_vAlignTable['u30'] = 'top';gv_vAlignTable['u136'] = 'top';gv_vAlignTable['u116'] = 'top';gv_vAlignTable['u74'] = 'top';gv_vAlignTable['u114'] = 'top';gv_vAlignTable['u160'] = 'top';gv_vAlignTable['u92'] = 'top';gv_vAlignTable['u46'] = 'top';gv_vAlignTable['u198'] = 'top';gv_vAlignTable['u98'] = 'top';gv_vAlignTable['u256'] = 'top';gv_vAlignTable['u240'] = 'top';gv_vAlignTable['u56'] = 'top';gv_vAlignTable['u150'] = 'top';gv_vAlignTable['u28'] = 'top';gv_vAlignTable['u142'] = 'top';gv_vAlignTable['u106'] = 'top';gv_vAlignTable['u168'] = 'top';gv_vAlignTable['u40'] = 'top';gv_vAlignTable['u104'] = 'top';gv_vAlignTable['u192'] = 'top';
+u250.style.cursor = 'pointer';
+$axure.eventManager.click('u250', function(e) {
+
+if (true) {
+
+	SetPanelVisibility('u237','hidden','none',500);
+
+}
+});
+gv_vAlignTable['u102'] = 'top';gv_vAlignTable['u164'] = 'top';gv_vAlignTable['u206'] = 'top';gv_vAlignTable['u84'] = 'top';gv_vAlignTable['u50'] = 'top';gv_vAlignTable['u239'] = 'center';gv_vAlignTable['u260'] = 'top';gv_vAlignTable['u170'] = 'top';gv_vAlignTable['u76'] = 'top';gv_vAlignTable['u134'] = 'top';
+u271.style.cursor = 'pointer';
+$axure.eventManager.click('u271', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('账户管理添加.html');
+
+	SetPanelVisibility('u237','hidden','none',500);
+
+}
+});
+gv_vAlignTable['u264'] = 'top';gv_vAlignTable['u94'] = 'top';gv_vAlignTable['u60'] = 'top';gv_vAlignTable['u190'] = 'top';gv_vAlignTable['u234'] = 'top';gv_vAlignTable['u277'] = 'top';gv_vAlignTable['u242'] = 'top';gv_vAlignTable['u64'] = 'top';gv_vAlignTable['u70'] = 'top';
 u272.style.cursor = 'pointer';
 $axure.eventManager.click('u272', function(e) {
 

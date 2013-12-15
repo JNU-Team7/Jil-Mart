@@ -4,6 +4,16 @@ $axure.eventManager.pageLoad(
 function (e) {
 
 });
+
+u57.style.cursor = 'pointer';
+$axure.eventManager.click('u57', function(e) {
+
+if (true) {
+
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('商品列表添加.html');
+
+}
+});
 gv_vAlignTable['u36'] = 'top';gv_vAlignTable['u16'] = 'top';gv_vAlignTable['u28'] = 'top';gv_vAlignTable['u8'] = 'top';gv_vAlignTable['u30'] = 'top';gv_vAlignTable['u58'] = 'top';gv_vAlignTable['u1'] = 'center';
 u59.style.cursor = 'pointer';
 $axure.eventManager.click('u59', function(e) {

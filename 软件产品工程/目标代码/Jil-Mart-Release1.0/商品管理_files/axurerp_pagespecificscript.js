@@ -161,11 +161,11 @@ $axure.eventManager.click('u43', function(e) {
 if (true) {
 
     objIframe = document.getElementById("u66");
-    var reload = FrameWindowNeedsReload(objIframe, $axure.globalVariableProvider.getLinkUrl('生鲜.html'));
+    var reload = FrameWindowNeedsReload(objIframe, $axure.globalVariableProvider.getLinkUrl('零食.html'));
     if (!reload) {
-	    objIframe.src=$axure.globalVariableProvider.getLinkUrl('生鲜.html');
+	    objIframe.src=$axure.globalVariableProvider.getLinkUrl('零食.html');
     } else {
-        objIframe.src="resources/reload.html#" + encodeURI($axure.globalVariableProvider.getLinkUrl('生鲜.html'));
+        objIframe.src="resources/reload.html#" + encodeURI($axure.globalVariableProvider.getLinkUrl('零食.html'));
     }
 
 }
